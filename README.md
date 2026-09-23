@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋! I'm Lara Isabely</h1>
 
 <p align="center">
-  <b>Engineering Student | Aspiring Full-Stack Developer</b>
+  <b>Engineering Student | Entry-Level Software Developer</b>
 </p>
 
 <p align="center">
@@ -27,6 +27,8 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
+
+<img align="right" height="200" src="https://i.pinimg.com/originals/27/14/29/271429a1b1cb41ff1403ed57bd9b1a7d.gif" />
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,js" height="50" alt="Programming languages" />
@@ -59,6 +61,8 @@
 ### 🧩 Other Technical Interests
 
 **Hardware • Computer Networks • Microcontrollers • Electronics • Clean Code • Error Handling • Agile Practices**
+
+<br clear="both">
 
 ---
 
