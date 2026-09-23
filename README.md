@@ -103,8 +103,8 @@ Web application developed with HTML, CSS and JavaScript, integrating an external
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=laraisabelysiq&theme=rose&hide_border=false&include_all_commits=true&count_private=false" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=laraisabelysiq&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="Top languages" />
+  <img src="./profile/stats.svg" height="150" alt="GitHub stats" />
+  <img src="./profile/top-langs.svg" height="150" alt="Top languages" />
 </p>
 
 <p align="center">
