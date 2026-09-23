@@ -12,7 +12,7 @@
 
 ## 💫 About Me
 
-🎓 I'm currently studying Engineering at Universidade Federal de Uberlândia, building my path toward Computer Engineering and Software Development.
+🎓 I'm from Brazil and currently studying Engineering at Universidade Federal de Uberlândia, building my path toward Computer Engineering and Software Development.
 
 💻 I have a technical background in Informatics and I'm interested in Full-Stack Development, especially web applications, REST APIs, databases, and software solutions.
 
