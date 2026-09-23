@@ -28,7 +28,7 @@
 
 ### 💻 Programming Languages
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/27/14/29/271429a1b1cb41ff1403ed57bd9b1a7d.gif" />
+<img align="right" height="200" src="./typing.gif" />
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,js" height="50" alt="Programming languages" />
