@@ -68,6 +68,14 @@
 
 ## 🚀 Featured Projects
 
+### 💰 Finance Manager
+
+Full-stack web application for personal finance management, featuring user authentication, income and expense management, and a dashboard, built with JavaScript, Node.js, Express, and MySQL.
+
+🔗 [View repository](https://github.com/laraisabelysiq/finance-manager)
+
+---
+
 ### 🎬 Movie API
 
 REST API developed with Node.js, Express.js and MySQL, featuring endpoints for movies, actors and participations, with database integration and API testing using Postman.
